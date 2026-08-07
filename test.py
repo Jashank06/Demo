@@ -12,4 +12,8 @@ print("Rohit")
 print("Vipul")
 print("Unnati")
 print("Maithili")
+<<<<<<< HEAD
 print("krishika")
+=======
+print("Jay")
+>>>>>>> de1469aa2a763d5d543119566e6b3f5812fbe0e3
