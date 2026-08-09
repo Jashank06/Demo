@@ -12,7 +12,7 @@ print("Rohit")
 print("Vipul")
 print("Unnati")
 print("Maithili")
-<<<<<<< HEAD
 print("krishika")
 print("Jay")
 print("git")
+print("Rupal")
