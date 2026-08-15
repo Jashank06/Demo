@@ -15,4 +15,8 @@ print("HELLO_EVERYONE")
 print("Aakansha")
 print("DATA SCIENCE")
 print("Vipul changed the design after lecture")
+<<<<<<< HEAD
 print("paridhi")
+=======
+print("Palak")
+>>>>>>> 66210b1e13bde3e93cf5d71c5ae16e4f35d45d1c
